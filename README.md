@@ -1,6 +1,6 @@
 # WAU-Drop-Analysis
 
-## 상세
+## 요약
 ### ① 기본정보
 * 개인프로젝트 (기여도 100%)
 * 데이터 출처 : [Mode Analytics Dataset](https://mode.com/)
@@ -13,6 +13,10 @@
 * WAU 감소 원인을 밝히고자 AB Test를 수행했으나, 통제변수 관리 실패 등으로 신뢰도가 낮습니다.
   *  **신뢰도 높은 AB Test를 수행하기 위해 통제변수가 그룹 간에 동일한지 반드시 확인하겠습니다.**
   *  **예상 시나리오를 수립하기 전 충분한 EDA를 통해 정보를 수집하도록 하겠습니다.**
+ 
+### ④ 주요 액션
+<p align = 'center'></p>
+
 ### ① 문제인식
 
 * Yammer는 기업용 협업도구 및 소셜 네트워크 서비스(SNS)임. 전세계 47개국에서 사용하고 있으며 2012년 Microsoft로 인수되어 현재는 [Viva Engage](https://www.microsoft.com/ko-kr/microsoft-viva/engage)라는 이름으로 운영되고 있음
