@@ -57,7 +57,7 @@ $${\color{gray}2014년\\,8월\\,북반구\\,/\\,남반구\\,사용자\\,그룹�
 ---
 
 ### ③ 데이터 분석
-* 관련 SQL 및 Python 코드는 [GitHub Link](https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/blob/main/SQL_Python%20Code.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)를 참고하여 주시기 바랍니다.
+* 관련 SQL 및 Python 코드는 [Github Link](https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/blob/main/SQL_Python%20Code.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)를 참고하여 주시기 바랍니다.
 * **그룹별 이메일 퍼널 차트**
   * **북반구의 열람 - 클릭 전환율이 남반구에 비해 3.1% 낮음**
 <p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/23cfadb5-a095-471d-b910-e1555d65864d'</p>
