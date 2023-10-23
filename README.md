@@ -53,3 +53,13 @@ $${\color{gray}2014년\\,8월\\,북반구\\,/\\,남반구\\,사용자\\,그룹�
   *  업무 참여도가 높은 사람이라면 조직 이슈를 파악하기 위한 행동에 적극적일 것이다.
 
 <p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/ce22d183-bdb0-44da-af9a-354f999b5d6e' width = 50%></p>
+
+---
+
+### ③ 데이터 분석
+* 관련 SQL 및 Python 코드는 GitHub Link를 참고하여 주시기 바랍니다.
+* **그룹별 이메일 퍼널 차트**
+  북반구의 열람 - 클릭 전환율이 남반구에 비해 3.1% 낮음
+  
+
+
