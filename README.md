@@ -76,4 +76,4 @@ $$H_1 : a< b\\,(북반구\\,그룹의\\,전환율이\\,남반구\\,전환율에\
 ---
 ### ④ 결과
 
-<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/89ed0f58-0946-46dd-bd80-59db0a83043e'></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/f1b37bcd-79a0-425d-a910-1ddf66076b76'></p>
