@@ -52,4 +52,4 @@ $${\color{gray}2014년\\,8월\\,북반구\\,/\\,남반구\\,사용자\\,그룹�
   *  유저의 뉴스레터 수신 및 열람, Call to Action 링크 클릭 등 행동에 대한 데이터를 사용할 수 있다.
   *  업무 참여도가 높은 사람이라면 조직 이슈를 파악하기 위한 행동에 적극적일 것이다.
 
-<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/c4527300-0165-4314-908e-2ab317c7100a'></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/ce22d183-bdb0-44da-af9a-354f999b5d6e' width = 50%></p>
