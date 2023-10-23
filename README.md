@@ -12,4 +12,7 @@
   * 북반구 사용자가 남반구에 비해 10배 가량 많음
   * 5~7월 평균과 8월을 비교했을 때, 북반구 국가의 70%에서 이벤트 발생 횟수가 감소함
   * 반면 남반구 국가의 67%에서 이벤트 발생 횟수가 증가함
-<p><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/2097f43c-5fb2-4caa-90b7-a8e4f6e00379'></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/2097f43c-5fb2-4caa-90b7-a8e4f6e00379'></p>
+---
+
+* EDA 결과를 통해 아래와 같은 예상 시나리오를 수립할 수 있었음
