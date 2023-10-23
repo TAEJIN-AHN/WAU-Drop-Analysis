@@ -15,8 +15,10 @@
   *  **예상 시나리오를 수립하기 전 충분한 EDA를 통해 정보를 수집하도록 하겠습니다.**
  
 ### ④ 주요 액션
-<p align = 'center'></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/4f7ab891-8912-4fc2-91ab-10cb67a8a8c1'></p>
 
+---
+## 상세
 ### ① 문제인식
 
 * Yammer는 기업용 협업도구 및 소셜 네트워크 서비스(SNS)임. 전세계 47개국에서 사용하고 있으며 2012년 Microsoft로 인수되어 현재는 [Viva Engage](https://www.microsoft.com/ko-kr/microsoft-viva/engage)라는 이름으로 운영되고 있음
