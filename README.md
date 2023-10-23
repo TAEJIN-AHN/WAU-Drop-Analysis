@@ -36,6 +36,7 @@
 ---
 * EDA 결과를 통해 아래와 같은 예상 시나리오를 수립할 수 있었음
 <p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/faf0aa5e-a508-4606-be21-c2ae8d6c2e2e'></p>
+
 * 아래 가정 하에 북반구/남반구의 8월 업무 참여도에 대한 가설 검정을 실시하여, 휴가가 유저 인게이지먼트에 미치는 영향을 확인하고자 함
 <p align = 'center' style = 'color : #8C8A87'><b><i>Yammer 서비스의 특성 상, WAU는 사용자의 업무 참여도에 비례한다.</i></b></p>
 <p align = 'center' style = 'color : #8C8A87'><b><i>2014년 8월 북반구 / 남반구 사용자 그룹의 유일한 차이점은 휴가 시즌 여부이다.</i></b></p>
