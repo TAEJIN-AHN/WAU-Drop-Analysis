@@ -16,3 +16,4 @@
 ---
 
 * EDA 결과를 통해 아래와 같은 예상 시나리오를 수립할 수 있었음
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/0822e87f-cfac-4b06-a4f2-9e6a51c114e1'></p>
