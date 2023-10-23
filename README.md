@@ -64,8 +64,8 @@ $${\color{gray}2014년\\,8월\\,북반구\\,/\\,남반구\\,사용자\\,그룹�
 
 * **가설검정**
   * 북반구 그룹의 열람 - 클릭 전환율을 a, 남반구는 b라고 했을 때 **통계적 가설**은 다음과 같음
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/a129e570-40f3-4713-a630-91c3036784bc' width = 50%></p>
 
-<p><img src = ''></p>
   * 검정 결과 (유의수준 95%), **p-value가 0.149로 귀무가설을 기각할 수 없었음**
 
 <p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/9588b938-3219-493e-9778-d07de693f28b' width = 70%></p>
