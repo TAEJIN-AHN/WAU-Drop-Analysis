@@ -71,9 +71,9 @@ $$H_1 : a< b\\,(북반구\\,그룹의\\,전환율이\\,남반구\\,전환율에\
 
   * 검정 결과 (유의수준 95%), **p-value가 0.149로 귀무가설을 기각할 수 없었음**
 
-<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/9588b938-3219-493e-9778-d07de693f28b' width = 80%></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/9588b938-3219-493e-9778-d07de693f28b' width = 70%></p>
 
 ---
 ### ④ 결과
 
-<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/c20e961c-37e3-431a-a83b-4cfeb8a17229'></p>
+<p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/c20e961c-37e3-431a-a83b-4cfeb8a17229' width = 80%></p>
