@@ -5,15 +5,18 @@
 * 개인프로젝트 (기여도 100%)
 * 데이터 출처 : [Mode Analytics Dataset](https://mode.com/)
 
+---
 ### ② 프로젝트 진행 배경
 * [그로스해킹(저자 : 양승화)](https://product.kyobobook.co.kr/detail/S000001766457)를 읽고 AB Test를 포함한 **그로스해킹**에 대해 처음으로 배우게 되었습니다.
 * 지식 습득에 그치지 않고 이를 실제 데이터 분석에 응용하여 그로스해킹을 내재화하고자 합니다.
 
+---
 ### ③ 결과 및 직무에 적용할 점
 * WAU 감소 원인을 밝히고자 AB Test를 수행했으나, 통제변수 관리 실패 등으로 신뢰도가 낮습니다.
   *  **신뢰도 높은 AB Test를 수행하기 위해 통제변수가 그룹 간에 동일한지 반드시 확인하겠습니다.**
   *  **예상 시나리오를 수립하기 전 충분한 EDA를 통해 정보를 수집하도록 하겠습니다.**
- 
+
+---
 ### ④ 주요 액션
 <p align = 'center'><img src = 'https://github.com/TAEJIN-AHN/WAU-Drop-Analysis/assets/125945387/4f7ab891-8912-4fc2-91ab-10cb67a8a8c1'></p>
 
